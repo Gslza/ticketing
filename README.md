@@ -1,4 +1,13 @@
 # 📌 Aplikasi Ticketing Wisata (Java Desktop)
+### Tugas Kelompok
+| Nama | NIM |
+|------|------|
+|  RIZKY FREZA ANGRAINI PULUNGAN  | 8030230038 |
+| KHAIRUL AZWAN | 8030230060 |
+| Muhammad Riza Ramadhan | 8030230062 |
+| Ridwan | 8030230048 |
+| Nurhikmah | 8030230037 |
+| Muhammad Efriadi  | 8030230015 |
 
 ## 1. Deskripsi Aplikasi
 Aplikasi Ticketing Wisata merupakan aplikasi berbasis **Java Desktop (NetBeans)** yang digunakan untuk mengelola data tempat wisata, data pengunjung, serta transaksi pemesanan tiket wisata.  
